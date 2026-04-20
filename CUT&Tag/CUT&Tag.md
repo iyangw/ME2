@@ -1,5 +1,6 @@
 
-This is the analysis pipeline of CUT & Tag applied in ME2 project.  
+This is the analysis pipeline of CUT & Tag applied in ME2 project.
+
 In this file, only one sample is taken as an example. The program actually run in batch.
 
 <br>
